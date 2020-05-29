@@ -16,7 +16,7 @@ Set up an emulator with the Android Studio or use a Android Device
 
 The App Should open up 
 
-
+![](images/Home.png)
 
 
 
@@ -33,11 +33,15 @@ Search button takes us to the search activity
 
 Add Contact Activity
 
+![](images/Add.png)
+
 Allows to add new record and also has the email and phone number validations.
 we could choose and upload an image from our device (I was not able to store the images accordinly as per the contacts so that needs to be fixed. It is about the time limit and more practice).
 
 
 Search Activity
+
+![](images/Search.png)
 
 We could search by person's first or last name
 once the information is delivered from the cloud, we could the update it as and press the upload button to do the changes.
